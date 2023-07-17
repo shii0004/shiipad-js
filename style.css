@@ -6,4 +6,5 @@ textarea {
   height: 500px;
   background: #FCD12A;
   border: red;
+  border-width: 1px;
 }
