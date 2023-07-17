@@ -7,4 +7,5 @@ textarea {
   border: brown;
   border-style: inset;
   border-width: 1px;
+  margin-bottom: 20px;
 }
