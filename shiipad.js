@@ -5,5 +5,5 @@ function saveFile() {
   link.href = URL.createObjectURL(file);
   link.download = "untitled.txt";
   link.click();
-  URL.revokeObjectURL(link.href);
+  
 }
