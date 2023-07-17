@@ -1,4 +1,8 @@
+body {
+  background: yellow;
+}
 textarea {
   width: 100%;
   height: 500px;
+  border: red;
 }
