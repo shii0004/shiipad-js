@@ -1,4 +1,4 @@
-saveFile() {
+function saveFile() {
   var link = document.createElement.("a");
   var content = document.getElementById("content").value;
   var file = new Blob([content], { type: 'text/plain' });
