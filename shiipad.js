@@ -1,4 +1,4 @@
-function saveFile() {
+const saveFile = () => {
   const link = document.createElement.("a");
   const content = document.querySelector("textarea").value;
   const file = new Blob(content, { type: 'text/plain' });
